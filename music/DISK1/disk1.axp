@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE layout PUBLIC "http://www.cdburnerxp.se/help/audio.dtd" "">
+<?xml-stylesheet type='text/xsl' href='http://www.cdburnerxp.se/help/compilation.xsl'?>
+<!--audio compilation created by CDBurnerXP 4.5.8.7128 (http://cdburnerxp.se)-->
+<layout type="Audio" version="4.5.8.7128" date="5/28/2022" time="8:49 AM">
+  <compilation name="audio-template" title="" artist="">
+    <track path="C:\cds\grandpayork\grandpayork.github.io\music\DISK1\01.mp3" title="" artist="" pregap="0" postgap="0" number="1" />
+    <track path="C:\cds\grandpayork\grandpayork.github.io\music\DISK1\02.mp3" title="" artist="" pregap="0" postgap="0" number="2" />
+    <track path="C:\cds\grandpayork\grandpayork.github.io\music\DISK1\03.mp3" title="" artist="" pregap="0" postgap="0" number="3" />
+    <track path="C:\cds\grandpayork\grandpayork.github.io\music\DISK1\04.mp3" title="" artist="" pregap="0" postgap="0" number="4" />
+    <track path="C:\cds\grandpayork\grandpayork.github.io\music\DISK1\05.mp3" title="" artist="" pregap="0" postgap="0" number="5" />
+    <track path="C:\cds\grandpayork\grandpayork.github.io\music\DISK1\06.mp3" title="" artist="" pregap="0" postgap="0" number="6" />
+    <track path="C:\cds\grandpayork\grandpayork.github.io\music\DISK1\07.mp3" title="" artist="" pregap="0" postgap="0" number="7" />
+    <track path="C:\cds\grandpayork\grandpayork.github.io\music\DISK1\08.mp3" title="" artist="" pregap="0" postgap="0" number="8" />
+    <track path="C:\cds\grandpayork\grandpayork.github.io\music\DISK1\09.mp3" title="" artist="" pregap="0" postgap="0" number="9" />
+    <track path="C:\cds\grandpayork\grandpayork.github.io\music\DISK1\10.mp3" title="" artist="" pregap="0" postgap="0" number="10" />
+    <track path="C:\cds\grandpayork\grandpayork.github.io\music\DISK1\11.mp3" title="" artist="" pregap="0" postgap="0" number="11" />
+    <track path="C:\cds\grandpayork\grandpayork.github.io\music\DISK1\12.mp3" title="" artist="" pregap="0" postgap="0" number="12" />
+    <track path="C:\cds\grandpayork\grandpayork.github.io\music\DISK1\13.mp3" title="" artist="" pregap="0" postgap="0" number="13" />
+    <track path="C:\cds\grandpayork\grandpayork.github.io\music\DISK1\14.mp3" title="" artist="" pregap="0" postgap="0" number="14" />
+    <track path="C:\cds\grandpayork\grandpayork.github.io\music\DISK1\15.mp3" title="" artist="" pregap="0" postgap="0" number="15" />
+    <track path="C:\cds\grandpayork\grandpayork.github.io\music\DISK1\16.mp3" title="" artist="" pregap="0" postgap="0" number="16" />
+    <track path="C:\cds\grandpayork\grandpayork.github.io\music\DISK1\17.mp3" title="" artist="" pregap="0" postgap="0" number="17" />
+    <track path="C:\cds\grandpayork\grandpayork.github.io\music\DISK1\18.mp3" title="" artist="" pregap="0" postgap="0" number="18" />
+  </compilation>
+</layout>
