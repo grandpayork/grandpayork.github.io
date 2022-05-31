@@ -2,7 +2,7 @@
 <!DOCTYPE layout PUBLIC "http://www.cdburnerxp.se/help/audio.dtd" "">
 <?xml-stylesheet type='text/xsl' href='http://www.cdburnerxp.se/help/compilation.xsl'?>
 <!--audio compilation created by CDBurnerXP 4.5.8.7128 (http://cdburnerxp.se)-->
-<layout type="Audio" version="4.5.8.7128" date="5/31/2022" time="12:56 PM">
+<layout type="Audio" version="4.5.8.7128" date="5/31/2022" time="2:08 PM">
   <compilation name="audio-template" title="" artist="">
     <track path="C:\cds\myCD\DISK2\01 The Right Left hand - George Jones - Wine Colored Roses Album - Cassette Tape.mp3" title="" artist="" pregap="0" postgap="0" number="1" />
     <track path="C:\cds\myCD\DISK2\02 Conway Twitty - Linda - 04 Track 4.mp3" title="" artist="" pregap="0" postgap="0" number="2" />
@@ -23,5 +23,9 @@
     <track path="C:\cds\myCD\DISK2\17 - You Need to Calm Down  - Taylor Swift.mp3" title="" artist="" pregap="0" postgap="0" number="17" />
     <track path="C:\cds\myCD\DISK2\18 Wide Awake by Katy Perry.mp3" title="" artist="" pregap="0" postgap="0" number="18" />
     <track path="C:\cds\myCD\DISK2\19 - Roar by Katy Perry.mp3" title="" artist="" pregap="0" postgap="0" number="19" />
+    <track path="C:\cds\myCD\DISK2\20 - Telephone - Lady Gaga.mp3" title="" artist="" pregap="0" postgap="0" number="20" />
+    <track path="C:\cds\myCD\DISK2\22 Man in the Mirror - Jackson.mp3" title="" artist="" pregap="0" postgap="0" number="21" />
+    <track path="C:\cds\myCD\DISK2\22 - Just Tryin' to Stay Outta AA - Walker Hayes.mp3" title="" artist="" pregap="0" postgap="0" number="22" />
+    <track path="C:\cds\myCD\DISK2\23 - Jessie's Girl - Rick Springfield.mp3" title="" artist="" pregap="0" postgap="0" number="23" />
   </compilation>
 </layout>
