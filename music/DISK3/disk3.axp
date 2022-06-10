@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE layout PUBLIC "http://www.cdburnerxp.se/help/audio.dtd" "">
+<?xml-stylesheet type='text/xsl' href='http://www.cdburnerxp.se/help/compilation.xsl'?>
+<!--audio compilation created by CDBurnerXP 4.5.8.7128 (http://cdburnerxp.se)-->
+<layout type="Audio" version="4.5.8.7128" date="6/10/2022" time="12:13 PM">
+  <compilation name="audio-template" title="" artist="">
+    <track path="C:\cds\myCD\DISK3\01 Shinedown - 45.mp3" title="" artist="" pregap="0" postgap="0" number="1" />
+    <track path="C:\cds\myCD\DISK3\02 Blue October - Hate Me.mp3" title="" artist="" pregap="0" postgap="0" number="2" />
+    <track path="C:\cds\myCD\DISK3\03 Seether - Broken.mp3" title="" artist="" pregap="0" postgap="0" number="3" />
+    <track path="C:\cds\myCD\DISK3\04 The Beetles - Lucy in the Sky with Diamonds.mp3" title="" artist="" pregap="0" postgap="0" number="4" />
+    <track path="C:\cds\myCD\DISK3\05 The Proclaimers - I'm Gonna Be (500 Miles).mp3" title="" artist="" pregap="0" postgap="0" number="5" />
+    <track path="C:\cds\myCD\DISK3\06 Train - Drops of Jupiter.mp3" title="" artist="" pregap="0" postgap="0" number="6" />
+    <track path="C:\cds\myCD\DISK3\07 Darude - Sandstorm.mp3" title="" artist="" pregap="0" postgap="0" number="7" />
+    <track path="C:\cds\myCD\DISK3\08 Eminem - Without Me.mp3" title="" artist="" pregap="0" postgap="0" number="8" />
+    <track path="C:\cds\myCD\DISK3\09 All American Rejects - Gives You Hell.mp3" title="" artist="" pregap="0" postgap="0" number="9" />
+    <track path="C:\cds\myCD\DISK3\10 Walker Hayes - AA.mp3" title="" artist="" pregap="0" postgap="0" number="10" />
+    <track path="C:\cds\myCD\DISK3\11 Harry Chapin - Cats in the Cradle.mp3" title="" artist="" pregap="0" postgap="0" number="11" />
+    <track path="C:\cds\myCD\DISK3\12 Carmen Twillie, Lebo M. - The Circle of Life (Lion King).mp3" title="" artist="" pregap="0" postgap="0" number="12" />
+  </compilation>
+</layout>
